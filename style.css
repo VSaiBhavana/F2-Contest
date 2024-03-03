@@ -1,0 +1,20 @@
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
+#email{
+    border: 1px solid grey;
+    width:300px;
+    border-radius: 5px;
+}
+#password{
+    border: 1px solid grey;
+    width:300px;
+    border-radius: 5px;
+}
+#submit{
+    border-radius: 5px;
+}
